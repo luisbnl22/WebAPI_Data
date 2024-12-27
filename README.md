@@ -2,7 +2,7 @@
 
 Web API C# - Data Manipulation
 
-#Purpose
+# Purpose
 
 Project developed to develop skills in C# Web API development.
 This API has sample dataset of sales and main purpose of API is of being a structured way to access and also update data in this database.
